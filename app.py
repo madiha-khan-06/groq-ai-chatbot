@@ -3,9 +3,9 @@ import streamlit as st
 from langchain_groq import ChatGroq
 
 #----PAGE CONFIGURATION----#
-st.set_page_config(page_title="AI Assistant", page_icon="🤖")
+st.set_page_config(page_title="Groq AI ChatBot", page_icon="🐱")
 
-st.title("🤖AI Assistant")
+st.title("🐱Groq AI ChatBot")
 st.write("Ask me anything about Python, Data Science, or AI!")
 
 #----SIDEBAR----#
